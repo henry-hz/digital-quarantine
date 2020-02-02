@@ -27,11 +27,15 @@ Think about a "Waze" of the virus spreading, a collaborative mode.
 
 ## Inputs
 
+Virus should spread diferently from place to place, so the training data should
+come from as much as different places.
+
 * Date and time the person was contacted
 * Work address
 * Home address
 * Family and best friends list
 * Trace back last geo position (from Apple/Google)
+* Above data from all infected people, their network/contacts.
 
 
 
