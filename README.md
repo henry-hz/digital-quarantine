@@ -45,6 +45,9 @@ Should predict the proability of the user to be infected, and based on the
 threshoud, this person should be quarantined, using ABM (agent based modeling),
 we should also forecast the power of the virus dispersion.
 
+Having the GPS track history, we can also cross over, and forecast who met who, and where, so it 
+would also help to calibrate the risk model.
+
 
 ## Ouputs
 
