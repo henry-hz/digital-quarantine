@@ -47,3 +47,5 @@ we should also forecast the power of the virus dispersion.
 * Probability of being infected.
 * Probability of infect other people
 * Network of people that he know is under high risk (so he can contact them)
+* Map of the "Virus Probability Presence" in real time, so people would avoid
+going to such a places
