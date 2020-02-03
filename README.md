@@ -69,3 +69,8 @@ going to such a places
 
 **Blockchain**
 * https://geodb.com/en/
+
+
+## Existing Applications
+
+* https://www.businessinsider.com/wuhan-coronavirus-app-where-is-how-dangerous-number-infections-2020-1#the-app-also-lets-you-look-at-a-map-of-deaths-from-the-coronavirus-4
