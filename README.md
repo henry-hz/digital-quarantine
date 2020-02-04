@@ -58,9 +58,21 @@ would also help to calibrate the risk model.
 going to such a places
 
 
+## Architecture
+
+We upload geo-position every 3 minutes to bigquery, using flutter, and when an 
+user get infected, we download his data and the related data (last 12 days from the day 
+he was infected) to the tile38 db, and from there we make several geo fence queries
+to determine who was in contact with him. Having the next infected people that
+had contact with him will help to calibrate the algorithm that will create the
+risk rank (to send messages to others)
+
 
 ## Stack
 
+
+**Mobile**
+* Flutter
 
 **Databases**
 
