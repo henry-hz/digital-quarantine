@@ -68,6 +68,12 @@ had contact with him will help to calibrate the algorithm that will create the
 risk rank (to send messages to others)
 
 
+* MOBILE: should upload geo points on the background, and have an "infected
+    button"
+
+* FUNCTIONS: receive the geo-points updated and register in bigquery
+
+
 ## Stack
 
 
@@ -81,6 +87,7 @@ risk rank (to send messages to others)
 
 **Blockchain**
 * https://geodb.com/en/
+* bigquery (google) to start the POC
 
 
 ## Existing Applications
