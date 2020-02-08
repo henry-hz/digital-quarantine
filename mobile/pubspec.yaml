@@ -27,6 +27,9 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  redux: ">= 4.0.0 < 4.1.0"
+  flutter_redux: ">=0.6.0 < 0.6.10"
+  redux_logging: "^0.4.0"
 
 
 # For information on the generic Dart part of this file, see the
