@@ -74,6 +74,7 @@ risk rank (to send messages to others)
 * FUNCTIONS: receive the geo-points updated and register in bigquery
 
 
+
 ## Stack
 
 
@@ -86,8 +87,10 @@ risk rank (to send messages to others)
 
 
 **Blockchain**
-* https://geodb.com/en/
-* bigquery (google) to start the POC
+* [geodb](https://geodb.com/en/) - to run the queries on geo data and test the
+    model
+* [ipfs-geo](https://github.com/daijiale/ipfs-geo/blob/master/README.md) - to
+    store geo info in a decentralized db
 
 
 ## Existing Applications
