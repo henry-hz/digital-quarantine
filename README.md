@@ -1,5 +1,5 @@
-Stop Corona Virus
-=================
+Virus Tracker
+=============
 
 
 
