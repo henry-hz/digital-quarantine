@@ -15,17 +15,17 @@ movement.
 
 
 
-** Mobile Users **
+**Mobile Users Data**
 
-* GPS position
-* Telehpone calls
+* GPS position: Upload their GPS to the blockchain database.
+* Telehpone calls: Upload phone list calls
 * List of friends and common visited places
-* Bluetooth
-* Corona Symptoms (Fever, difficult of breathing, etc...)
-* Age, health conditions, etc...
+* Bluetooth radar: In every physical approximation, a bluetooth will send the user UUID to other users, so we can trace contacts inside any building.
+* Corona Symptoms Updates: (Fever, difficult of breathing, etc...): Upload any sign of a Corona symptom.
+* Age, health conditions, etc...: The user profile is an important factor to define if the user can spread the virus without having symptoms.
 
 
-** Govs **
+**Govs**
 
 * List of infected users
 * GEO positions and time of infected users, example:
@@ -67,7 +67,7 @@ movement.
 
 
 
-## Existing Solutions
+## Existing Similar Solutions
 
 * [china-gov](https://www.businessinsider.com/wuhan-coronavirus-app-where-is-how-dangerous-number-infections-2020-1#the-app-also-lets-you-look-at-a-map-of-deaths-from-the-coronavirus-4)
 * [virus-tracker](https://www.jpost.com/Israel-News/New-Israeli-app-to-notify-users-of-potential-coronavirus-exposure-620991)
