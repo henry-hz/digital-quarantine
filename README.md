@@ -1,9 +1,13 @@
 Digital Quarantine Protocol
 ===========================
 
-Instead of physically imposing isolation to every person, business and family, my proposal (with the help of God), is that every person should create a clear and repetitive pattern of movement, and any change on this pattern, should also change the risk level of the person and his network, alleviating the economic burden of stopping every economic field.
+Instead of physically imposing isolation to every person, business and family, my proposal (with the help of God), is that every person should share as much as possible information to track in real time every contact with other people, with enough data to trace a clear and repetitive pattern of movement, including any change on this pattern. Based on the data uploaded to the server, AI models will rank every user risk level, and work like a "WAZE", helping users to avoid contact with other users that are in a higher risk level. 
 
-To solve the privacy concern, let's use blockchain to encrypt, anonymize and share data.
+The ideal system would be a decentralized autonomous machine, solving the privacy concerns, where data is encrypted and owned by the user, but to save lives, probably many countries would agree to give up privacy, until the pilot is moved to an autonomous blockchain system.
+
+## Reinforcments
+
+Using game theroy fundamentals, we could achieve the [nash-equilibrium](https://www.investopedia.com/terms/n/nash-equilibrium.asp) using gamification for sharing data, where govs and donors could even give bonus/payments for the shared data. It could work even better than policy or fines as a reinforcment as explained by Skinner in [this](https://www.youtube.com/watch?v=-amofAvsQnY) video.
 
 ## Cluster and City Isolation
 
