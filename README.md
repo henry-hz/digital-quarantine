@@ -3,9 +3,11 @@ Digital Quarantine Protocol
 
 Instead of physically imposing isolation to every person, business and family, my proposal (with the help of God), is that every person should create a clear and repetitive pattern of movement, and any change on this pattern, should also change the risk level of the person and his network, alleviating the economic burden of stopping every economic field.
 
-To solve the privacy concern, let's use blockchain to encrypt, anonymize and
-share data.
+To solve the privacy concern, let's use blockchain to encrypt, anonymize and share data.
 
+## Cluster and City Isolation
+
+To optimize economic activities, and avoid a full lockdown, we should aim to isolate healthy cities, to not become contaminated and also isolate contaminated cities, in order to avoid contamination to other cities. Once cities need to receive and send products, a buffer zone should be created in order to avoid contamination, i.e. trucks depoisit food into the city's buffer, and the respective city supermarket truck will load the deposited food to bring it to the super market.
 
 
 ## Data Collection
@@ -23,7 +25,6 @@ movement.
 * Bluetooth radar: In every physical approximation, a bluetooth will send the user UUID to other users, so we can trace contacts inside any building.
 * Corona Symptoms Updates: (Fever, difficult of breathing, etc...): Upload any sign of a Corona symptom.
 * Age, health conditions, etc...: The user profile is an important factor to define if the user can spread the virus without having symptoms.
-
 
 **Govs**
 
