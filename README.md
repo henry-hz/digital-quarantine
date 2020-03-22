@@ -1,6 +1,9 @@
 Digital Quarantine Protocol
 ===========================
 
+UPDATE: The Israeli health ministry just launched a contact tracking with local
+GPS data storage [here](https://github.com/MohGovIL/hamagen-react-native)
+
 Instead of physically imposing isolation to every person, business and family, my proposal (with the help of God), is that every person should create a clear and repetitive pattern of movement, and any change on this pattern, should also change the risk level of the person and his network, alleviating the economic burden of stopping every economic field.
 
 To solve the privacy concern, let's use blockchain to encrypt, anonymize and share data.
